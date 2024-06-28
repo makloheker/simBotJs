@@ -3,7 +3,7 @@
 ## require
 
 - `nodejs`
-- ` axios`
+- `axios`
 - `readline`
 
 ## cara install dan jalankan
